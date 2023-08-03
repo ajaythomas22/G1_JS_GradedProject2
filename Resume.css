@@ -1,0 +1,80 @@
+body {
+    background: rgb(63, 147, 251);
+    background: linear-gradient(90deg, rgba(63, 147, 251, 1) 0%, rgba(70, 252, 126, 1) 73%);
+}
+
+
+#options {
+    position: relative;
+    left: 25%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 0px;
+    font-size: x-large;
+    width: 50%;
+    height: 50px;
+    background-color: transparent;
+}
+
+#previous,
+#next {
+    background-color: #e7eeee;
+    /* Green */
+    border: none;
+    color: rgb(12, 143, 250);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+
+#leftPage {
+    background-color: #72f198;
+    width: 200px;
+}
+
+#search {
+    width: 400px;
+    height: 50px;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#structure {
+    border-width: 10px;
+}
+
+#Header {
+    text-align: center;
+    font-size: x-large;
+    background-color: rgb(201, 236, 236);
+    margin-top: -20px;
+}
+
+#mainPage {
+    top: -50px;
+}
+
+#error {
+    font-size: larger;
+    text-align: center;
+}
+
+.p {
+    left: 100px;
+}
+
+ul {
+    list-style-type: none
+}
+
+#coreDetails {
+    background-color: rgb(201, 236, 236);
+    margin-top: -420px;
+    margin-left: 200px;
+    height: 1000px;
+    padding-top: 50px;
+    padding-left: 10px;
+}
